@@ -14,8 +14,8 @@ As stated above, the main purpose is to provide simple examples for git training
 
 This is a simple projet, deployment can be on any server
 
+Testing git diff command staged vs unstaged
+
 ## How To Contribute
-
-
 Place to test git commands
 
